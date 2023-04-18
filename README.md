@@ -5,5 +5,5 @@ Costumo dizer que a área de testes e qualidade me escolheu. Sou uma pessoa que 
 
  <h2><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kitty.png" width="100" height="100"> Projetos</h2>
 
-<h3><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/jogajunto.png"  width="100" height="40" a="https://jogajuntoinstituto.org/"> 
- <br/>Projeto Final Instituto Joga Junto</h3>
+<h3><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/jogajunto.png" width="100" height="40"> 
+ <br/>Projeto Final - Formação "O QA tá ON" - <a href ="https://jogajuntoinstituto.org/">Instituto Joga Junto</a></h3>

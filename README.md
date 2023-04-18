@@ -7,8 +7,13 @@ Costumo dizer que a área de testes e qualidade me escolheu. Sou uma pessoa que 
 
 <h3><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/jogajunto.png" width="100" height="40"> 
  <br/>Projeto Final - Formação "O QA tá ON" - <a href ="https://jogajuntoinstituto.org/">Instituto Joga Junto</a></h3>
- 
+ A formação visa capacitar em nível básico e de forma gratuita pessoas interessadas na área de QA.
+ <br/>
  O projeto final tratava-se de reempregar as habilidades que adquirimos durante a formação, no aplicativo mobile Rappi.
+ <br/>
+ 
+ 
+ 
  - Organização:
  <br/>Nós optamos por usar uma metodologia mista de SCRUM e KANBAN. Fizemos dailies para reportar resultado de testes e alinhar as demandas. Já para definir prioridade das tasks e fluxo de trabalho, utilizamos o KANBAN no TRELLO (imagem abaixo).
  <img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kanban.png" width="400" height="250">

@@ -29,3 +29,8 @@ Como um extra, executamos também testes exploratórios onde identificamos diver
 - Time e o meu papel:
 <br/>Como se trata de um trabalho em equipe, acredito ser necessário explicitar minha experiência individual. Fui a porta voz da equipe na apresentação final, mas todas realizamos o trabalho igualmente. Todas testamos, escrevemos cenários, report de bugs e geramos evidências de teste, bem como participamos das decisões relacionadas à horário e organização. Foi uma experiência intensa de colaboração em equipe.
    
+ <h2><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kitty%20(2).png" width="100" height="100"> Eu também sei fazer:</h2>
+ 
+Pensar casos de teste e transcrevê-los em Gherkin
+<br/><img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/casos-de-teste/cenarios-gherkin/cen%C3%A1rio%20de%20testes.png" width="400" height="250">
+  

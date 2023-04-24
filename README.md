@@ -31,6 +31,11 @@ Como um extra, executamos também testes exploratórios onde identificamos diver
    
  <h2><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kitty%20(2).png" width="100" height="100"> Eu também sei fazer:</h2>
  
-Pensar casos de teste e transcrevê-los em Gherkin
+♥ Pensar casos de teste e transcrevê-los em Gherkin
 <br/><img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/casos-de-teste/cenarios-gherkin/cen%C3%A1rio%20de%20testes.png" width="400" height="250">
+
+♥ Fazer um mapeamento de bugs afim de determinar a urgência de suas resoluções, baseadas no objetivo de negócios do contratante.
+
+O exemplo abaixo trata-se de um mapeamento de bugs em um sistema de estoque, onde por cor e fonte pode-se identificar a gravidade do erro. A falha 15 - "Deve tornar impossível  selecionar datas retroativas no campo 'Data Cadastro'", por exemplo, é considerada de gravissíma e tem alta prioridade de resolução, pois como se trata de um sistema de estoque, deve ser impossível alterar a data retroativamente, do contrário, existem aberturas para fraudes, o que pode comprometer a receita e credibilidade do cliente contratante.
+<br/><img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/casos-de-teste/cenarios-gherkin/mapeamentodebugs.png" width="400" height="250">
   

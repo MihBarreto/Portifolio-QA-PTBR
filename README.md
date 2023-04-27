@@ -38,4 +38,9 @@ Como um extra, executamos também testes exploratórios onde identificamos diver
 
 O exemplo abaixo trata-se de um mapeamento de bugs em um sistema de estoque, onde por cor e fonte pode-se identificar a gravidade do erro. A falha 15 - "Deve tornar impossível  selecionar datas retroativas no campo 'Data Cadastro'", por exemplo, é considerada gravissíma e tem alta prioridade de resolução, pois como se estamos falando de um sistema de estoque, deve ser impossível alterar a data retroativamente, do contrário, podem exitir aberturas para fraudes, o que acabaria comprometendo a receita e credibilidade do cliente contratante.
 <br/><img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/casos-de-teste/cenarios-gherkin/mapeamentodebugs.png" width="400" height="250">
+
+♥ Teste automatizados em Java - Selenium
+Aqui temos os links para repositórios onde os códigos dos testes automatizados podem ser vistos. Os testes são:
+1 - Ao pesquisar as palavras "Batata frita" e "Sorvete" no google, as pesquisas devem retornar os termos "Resultado" e "Aproximadamente"
+https://github.com/MihBarreto/automated-test-google-check
   

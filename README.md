@@ -41,7 +41,7 @@ O exemplo abaixo trata-se de um mapeamento de bugs em um sistema de estoque, ond
 
 ♥ Teste automatizados em Java - Selenium
 
-<br><br>Aqui temos os links para repositórios onde os códigos dos testes automatizados podem ser vistos. Os testes são:
+<br>Aqui temos os links para repositórios onde os códigos dos testes automatizados podem ser vistos. Os testes são:
 <br><br>1 - Ao pesquisar as palavras "Batata frita" e "Sorvete" no google, as pesquisas devem retornar os termos "Resultado" e "Aproximadamente"
 https://github.com/MihBarreto/automated-test-google-check
   

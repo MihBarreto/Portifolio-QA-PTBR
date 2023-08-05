@@ -6,7 +6,8 @@ Costumo dizer que a área de testes e qualidade me escolheu. Sou uma pessoa que 
  <h2><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kitty.png" width="100" height="100"> Projetos</h2>
 
 <h3><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/jogajunto.png" width="100" height="40"> 
- <br/>Projeto Final - Formação "O QA tá ON" - <a href ="https://jogajuntoinstituto.org/">Instituto Joga Junto</a></h3>
+<details>
+ <summary> Projeto Final - Formação "O QA tá ON" - Instituto Joga Junto </summary>
  A formação visa capacitar em nível básico e de forma gratuita pessoas interessadas na área de QA.
  <br/>
  O projeto final tratava-se de reempregar as habilidades que adquirimos durante a formação, no aplicativo mobile Rappi.
@@ -22,13 +23,13 @@ Costumo dizer que a área de testes e qualidade me escolheu. Sou uma pessoa que 
  <br/> Foram propostos três grandes cenários de teste: <i>Login, Fluxo de Compras e Logoff</i>. A partir daí, deveríamos detalhar os cenários em <i>Gherkin</i> e executar testes manuais para descobrir se todos os cenários executariam o caminho feliz ou resultariam em um bug.
  
 <img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/testesecenarios.png" width="400" height="250">
-Como um extra, executamos também testes exploratórios onde identificamos diversos bugs que não foram previstos em nenhum cenário, como por exemplo textos não traduzidos e botões com links quebrados.
+<br/>Como um extra, executamos também testes exploratórios onde identificamos diversos bugs que não foram previstos em nenhum cenário, como por exemplo textos não traduzidos e botões com links quebrados.
 
 <br/><img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/bugexplorat%C3%B3rio.png" width="400" height="250">
 
 - Time e o meu papel:
 <br/>Como se trata de um trabalho em equipe, acredito ser necessário explicitar minha experiência individual. Fui a porta voz da equipe na apresentação final, mas todas realizamos o trabalho igualmente. Todas testamos, escrevemos cenários, report de bugs e geramos evidências de teste, bem como participamos das decisões relacionadas à horário e organização. Foi uma experiência intensa de colaboração em equipe.
-   
+</details>   
  <h2><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kitty%20(2).png" width="100" height="100"> Eu também sei fazer:</h2>
  
 ♥ Pensar casos de teste e transcrevê-los em Gherkin
